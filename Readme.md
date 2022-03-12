@@ -1,4 +1,4 @@
-### 工作目录 /home/student1/ygs
+### 工作目录 /home/student1/ygs/week2
 ### 上传数据文件
 $ hdfs dfs -mkdir /ygs/week2/input
 $ hdfs dfs -put ~/ygs/week2/HTTP_20130313143750.dat /ygs/week2/input
